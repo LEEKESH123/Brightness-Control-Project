@@ -63,7 +63,7 @@ The main components of the code include:
 - **Brightness Control**: The distance is mapped to a brightness level (0-100) using `np.interp()`, and the screen brightness is adjusted in real-time using the `screen-brightness-control` library.
 
 ## Screenshots
-![Demo of Hand Gesture Brightness Control](/assests/Screenshot (212))
+![Demo of Hand Gesture Brightness Control]([/assests/Screenshot (212)](https://github.com/LEEKESH123/Brightness-Control-Project/blob/main/BrightnessControlProject/src/assests/Screenshot%20(212).png))
 
 ## Potential Improvements
 - Add more gestures for different actions like volume control.
